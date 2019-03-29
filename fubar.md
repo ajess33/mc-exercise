@@ -2,4 +2,5 @@
 Hey! This is Bob and Carol again working in our branch!
 insert funny joke here
 
-This is Ted and Alice and we are doing some good work
+This is the real Ted and Alice and we are doing some great work
+My joke is you smell like beans \OwO/
